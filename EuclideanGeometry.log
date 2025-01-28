@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.1.26)  26 JAN 2025 21:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.1.26)  28 JAN 2025 11:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1027,6 +1027,7 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 56.
 \c@tcb@cnt@corollary=\count375
 \c@tcb@cnt@lemma=\count376
 \c@tcb@cnt@claim=\count377
+\c@tcb@cnt@takeaway=\count378
 ) (EuclideanGeometry.aux)
 \openout1 = `EuclideanGeometry.aux'.
 
@@ -1087,16 +1088,16 @@ LaTeX Font Info:    ... okay on input line 26.
 
 (C:\Users\84917\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count378
+\scratchcounter=\count379
 \scratchdimen=\dimen323
 \scratchbox=\box133
-\nofMPsegments=\count379
-\nofMParguments=\count380
+\nofMPsegments=\count380
+\nofMParguments=\count381
 \everyMPshowfont=\toks60
-\MPscratchCnt=\count381
+\MPscratchCnt=\count382
 \MPscratchDim=\dimen324
-\MPnumerator=\count382
-\makeMPintoPDFobject=\count383
+\MPnumerator=\count383
+\makeMPintoPDFobject=\count384
 \everyMPtoPDFconversion=\toks61
 ) (C:\Users\84917\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -1109,7 +1110,7 @@ Package hyperref Info: Link coloring ON on input line 26.
 \@outlinefile=\write4
 \openout4 = `EuclideanGeometry.out'.
 
-\c@lstlisting=\count384
+\c@lstlisting=\count385
 LaTeX Info: Redefining \celsius on input line 26.
 Package gensymb Info: Faking symbols for \degree and \celsius on input line 26.
 
@@ -1158,10 +1159,10 @@ Package rerunfilecheck Info: File `EuclideanGeometry.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 44786 strings out of 473536
- 1048017 string characters out of 5714956
- 1614632 words of memory out of 5000000
- 67304 multiletter control sequences out of 15000+600000
+ 44796 strings out of 473536
+ 1048171 string characters out of 5714956
+ 1615175 words of memory out of 5000000
+ 67314 multiletter control sequences out of 15000+600000
  572864 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  103i,12n,110p,1264b,585s stack positions out of 10000i,1000n,20000p,200000b,200000s

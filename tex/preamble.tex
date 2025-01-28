@@ -240,6 +240,21 @@
             segmentation style={solid, mahtqs!85!black}
 }
 
+\newtcolorbox[auto counter,number within=section,number format=\arabic]{takeaway}[1][]{
+            colback=mahnvy!10!white,enhanced,
+            title={\textbf{\faExclamation \ \ Nhận xét --- \ }},
+            boxrule=0pt,
+	    frame hidden,
+            breakable,fonttitle=\sffamily,
+            arc=0mm,
+            sharp corners,
+            detach title,
+            before upper = \tcbtitle,
+            colframe=mahnvy,coltitle=mahnvy!85!black,
+            borderline west = {1mm}{0pt}{mahnvy!85!black},
+            segmentation style={solid, mahnvy!85!black}
+}
+
 \newenvironment{solution}[1][Lời giải]{%
   \proof[\faPenNib \hspace{0.2cm} \ttfamily \scshape \large #1]%
 }{\(\hfill \blacksquare\){\parfillskip0pt\par}}
