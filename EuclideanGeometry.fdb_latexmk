@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1738040018.12468 "c:/Users/84917/Dropbox/PC/Desktop/LaTeX/EuclideanGeometry/EuclideanGeometry.tex" "EuclideanGeometry.pdf" "EuclideanGeometry" 1738040020.88498 0
+["pdflatex"] 1738055451.4618 "c:/Users/84917/Dropbox/PC/Desktop/LaTeX/EuclideanGeometry/EuclideanGeometry.tex" "EuclideanGeometry.pdf" "EuclideanGeometry" 1738055454.05885 0
   "C:/Users/84917/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1737899427 89473 a174716b75ff1453adfe63bec8e0bace ""
   "C:/Users/84917/AppData/Local/MiKTeX/fonts/tfm/public/rsfs/rsfs10.tfm" 1737886260 688 37338d6ab346c2f1466b29e195316aa4 ""
   "C:/Users/84917/AppData/Local/MiKTeX/fonts/tfm/public/rsfs/rsfs5.tfm" 1737886261 684 3a51bd4fd9600428d5264cf25f04bb9a ""
@@ -264,11 +264,11 @@
   "C:/Users/84917/AppData/Local/Programs/MiKTeX/tex/latex/vntex/vietnam.sty" 1368738347 2477 91784aa2c9213f74609391e3cae65a13 ""
   "C:/Users/84917/AppData/Local/Programs/MiKTeX/tex/latex/vntex/vncaps.tex" 1368738347 3273 a55ebdb07413d2fea580f210e3c0b252 ""
   "C:/Users/84917/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
-  "EuclideanGeometry.aux" 1738040020 162 fa61bf9ecf9314f94d51aa32222a725c "pdflatex"
-  "EuclideanGeometry.out" 1738040020 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "EuclideanGeometry.aux" 1738055453 162 fa61bf9ecf9314f94d51aa32222a725c "pdflatex"
+  "EuclideanGeometry.out" 1738055453 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   "EuclideanGeometry.tex" 1737900163 2058 f5fe61d31e21a5316d4a134573bbd455 ""
   "c:/Users/84917/Dropbox/PC/Desktop/LaTeX/EuclideanGeometry/EuclideanGeometry.tex" 1737900163 2058 f5fe61d31e21a5316d4a134573bbd455 ""
-  "tex/preamble.tex" 1738040017 12042 56db3b587ad1eccd2391c12b978c9537 ""
+  "tex/preamble.tex" 1738055450 12040 fad4acb01ec08c459ce5102b7cd904b5 ""
   (generated)
   "EuclideanGeometry.aux"
   "EuclideanGeometry.log"

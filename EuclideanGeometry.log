@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.1.26)  28 JAN 2025 11:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.1.26)  28 JAN 2025 16:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1027,7 +1027,7 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 56.
 \c@tcb@cnt@corollary=\count375
 \c@tcb@cnt@lemma=\count376
 \c@tcb@cnt@claim=\count377
-\c@tcb@cnt@takeaway=\count378
+\c@tcb@cnt@remark=\count378
 ) (EuclideanGeometry.aux)
 \openout1 = `EuclideanGeometry.aux'.
 
@@ -1160,8 +1160,8 @@ Package rerunfilecheck Info: File `EuclideanGeometry.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  44796 strings out of 473536
- 1048171 string characters out of 5714956
- 1615175 words of memory out of 5000000
+ 1048151 string characters out of 5714956
+ 1615151 words of memory out of 5000000
  67314 multiletter control sequences out of 15000+600000
  572864 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
